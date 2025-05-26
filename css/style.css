@@ -91,12 +91,12 @@ GENERAL
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap");
 
 :root {
-  --primary: #104cba;
+  --primary: #9097ff;
   --secondary: #444444;
 
   --primary-light: #fcf4ee;
 
-  --primary-one: #1750bd;
+  --primary-one: #9097ff;
   --primary-two: #d0490e;
 
   --primary-link: #75b16c;
@@ -1960,7 +1960,7 @@ ol li {
   transition: 0.5s all ease;
   border-radius: 5px;
   font-weight: 400;
-  background: #104cba;
+  background: #9097ff;
 }
 
 .site-button:hover,
@@ -1981,7 +1981,7 @@ ol li {
   margin-left: 10px;
   margin-right: 10px;
   z-index: 2;
-  background: #1750bd;
+  background: #9097ff;
 }
 .site-btn-curve:after {
   content: "";
@@ -1990,7 +1990,7 @@ ol li {
   left: -5px;
   width: 50%;
   height: 99.5%;
-  background: #1750bd;
+  background: #9097ff;
   -moz-transform: skewX(-6deg);
   -webkit-transform: skewX(-6deg);
   -o-transform: skewX(-6deg);
@@ -2006,7 +2006,7 @@ ol li {
   right: -5px;
   width: 50%;
   height: 99.5%;
-  background: #1750bd;
+  background: #9097ff;
   -moz-transform: skewX(6deg);
   -webkit-transform: skewX(6deg);
   -o-transform: skewX(6deg);
@@ -2434,13 +2434,13 @@ ol li {
 }
 
 .owl-carousel .owl-nav button.owl-prev:hover {
-  border-color: #1750bd;
+  border-color: #9097ff;
 }
 .owl-carousel .owl-nav button.owl-prev:hover i {
-  color: #1750bd;
+  color: #9097ff;
 }
 .owl-carousel .owl-nav button.owl-prev:hover i:after {
-  background: #1750bd;
+  background: #9097ff;
 }
 
 .owl-carousel .owl-nav button.owl-next {
@@ -2485,13 +2485,13 @@ ol li {
 }
 
 .owl-carousel .owl-nav button.owl-next:hover {
-  border-color: #1750bd;
+  border-color: #9097ff;
 }
 .owl-carousel .owl-nav button.owl-next:hover i {
-  color: #1750bd;
+  color: #9097ff;
 }
 .owl-carousel .owl-nav button.owl-next:hover i:after {
-  background: #1750bd;
+  background: #9097ff;
 }
 
 @media only screen and (max-width: 575px) {
@@ -2685,7 +2685,7 @@ THEMEFOREST REQUIRED CLASSES
   float: left;
 }
 .header-style-1 .navbar-toggler .icon-bar {
-  background: #1750bd;
+  background: #9097ff;
 }
 .header-style-1 .color-fill .navbar-toggler .icon-bar {
   background: #000;
@@ -2804,8 +2804,8 @@ THEMEFOREST REQUIRED CLASSES
   }
   .aon-btn-signup {
     display: inline-block;
-    background: #104cba;
-    color: #104cba;
+    background: #9097ff;
+    color: #9097ff;
     border-radius: 5px;
   }
 }
@@ -2828,7 +2828,7 @@ THEMEFOREST REQUIRED CLASSES
 .login-sign-btn a:hover,
 .login-sign-btn a:active,
 .login-sign-btn a:focus {
-  color: #1750bd;
+  color: #9097ff;
 }
 .aon-btn-search {
   color: #fff;
@@ -3083,7 +3083,7 @@ THEMEFOREST REQUIRED CLASSES
 @media (max-width: 991px) {
   .header-nav .nav > li.active > a,
   .header-nav .nav > li.current-menu-item > a {
-    color: #1750bd;
+    color: #9097ff;
   }
 }
 @media (max-width: 991px) {
@@ -3097,10 +3097,10 @@ THEMEFOREST REQUIRED CLASSES
 .header-nav .nav > li.active > a,
 .header-nav .nav > li.current-menu-item > a {
   background-color: transparent;
-  color: #1750bd;
+  color: #9097ff;
 }
 .header-nav .nav > li:hover > a {
-  color: #1750bd;
+  color: #9097ff;
 }
 .header-nav .nav > li:hover > .sub-menu {
   opacity: 1;
@@ -3422,21 +3422,21 @@ THEMEFOREST REQUIRED CLASSES
   color: #444444;
 }
 .header-style-1 .header-nav .nav > li:hover > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-1 .header-nav .nav > li.active > a,
 .header-style-1 .header-nav .nav > li.current-menu-item > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-1 .color-fill .header-nav .nav > li > a {
   color: #000;
 }
 .header-style-1 .color-fill .header-nav .nav > li:hover > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-1 .color-fill .header-nav .nav > li.active > a,
 .header-style-1 .color-fill .header-nav .nav > li.current-menu-item > a {
-  color: #104cba;
+  color: #9097ff;
 }
 
 @media only screen and (max-width: 991px) {
@@ -3489,7 +3489,7 @@ THEMEFOREST REQUIRED CLASSES
   padding: 15px 15px;
 }
 .top-bar-two-left i {
-  color: #1750bd;
+  color: #9097ff;
   margin-right: 3px;
 }
 
@@ -3498,7 +3498,7 @@ THEMEFOREST REQUIRED CLASSES
   align-items: center;
 }
 .aon-brand-marketing a {
-  color: #1750bd;
+  color: #9097ff;
 }
 
 @media only screen and (max-width: 991px) {
@@ -3546,7 +3546,7 @@ THEMEFOREST REQUIRED CLASSES
   font-size: 16px;
 }
 .aon-social-icon-3 li a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 
 .aon-live-chats {
@@ -3557,7 +3557,7 @@ THEMEFOREST REQUIRED CLASSES
 .aon-live-icon {
   width: 30px;
   font-size: 30px;
-  color: #104cba;
+  color: #9097ff;
   margin-right: 15px;
   line-height: 1;
 }
@@ -3648,21 +3648,21 @@ THEMEFOREST REQUIRED CLASSES
   color: #fff;
 }
 .header-style-3 .header-nav .nav > li:hover > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-3 .header-nav .nav > li.active > a,
 .header-style-3 .header-nav .nav > li.current-menu-item > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-3 .color-fill .header-nav .nav > li > a {
   color: #000;
 }
 .header-style-3 .color-fill .header-nav .nav > li:hover > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-3 .color-fill .header-nav .nav > li.active > a,
 .header-style-1 .color-fill .header-nav .nav > li.current-menu-item > a {
-  color: #104cba;
+  color: #9097ff;
 }
 .header-style-3 .navbar-toggler .icon-bar {
   background: #fff;
@@ -3676,7 +3676,7 @@ THEMEFOREST REQUIRED CLASSES
   }
   .header-style-3 .header-nav .nav > li.active > a,
   .header-style-3 .header-nav .nav > li.current-menu-item > a {
-    color: #104cba;
+    color: #9097ff;
   }
 }
 
@@ -3753,10 +3753,10 @@ THEMEFOREST REQUIRED CLASSES
   position: relative;
   display: inline-block;
   font-weight: 800;
-  color: #104cba;
+  color: #9097ff;
   background-color: #f9f9f9;
   padding: 5px 10px;
-  border-left: 3px solid #104cba;
+  border-left: 3px solid #9097ff;
 }
 .wt-small-separator.white {
   color: #fff;
@@ -3822,7 +3822,7 @@ THEMEFOREST REQUIRED CLASSES
   div.sep-leaf-left:after {
   position: absolute;
   content: "";
-  background-color: #104cba;
+  background-color: #9097ff;
   height: 22px;
   bottom: 0px;
   top: 0px;
@@ -3870,7 +3870,7 @@ THEMEFOREST REQUIRED CLASSES
 .section-head.center {
   text-align: center;
   margin: 0px auto 60px;
-  max-width: 600px;
+  /* max-width: 600px; */
 }
 @media only screen and (max-width: 991px) {
   .section-head.center {
@@ -3909,7 +3909,7 @@ THEMEFOREST REQUIRED CLASSES
 .section-head.center .wt-small-separator div.sep-leaf-left:after {
   position: absolute;
   content: "";
-  background-color: #104cba;
+  background-color: #9097ff;
   height: 22px;
   bottom: 0px;
   top: 0px;
@@ -4079,12 +4079,12 @@ THEMEFOREST REQUIRED CLASSES
 .widget_services ul li .badge {
   float: right;
   background: none;
-  color: #104cba;
+  color: #9097ff;
   font-weight: normal;
   font-size: 14px;
 }
 .widget_services ul li a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 button.scroltop {
   border: none;
@@ -4152,7 +4152,7 @@ button.scroltop:hover {
   color: #fff;
   border: none;
   font-weight: 500;
-  background-color: #104cba;
+  background-color: #9097ff;
   border-radius: 0px 12px 12px 0px;
   padding: 8px 30px;
   margin-left: -12px;
@@ -4227,7 +4227,7 @@ button.scroltop:hover {
 }
 .footer-light .call-us a {
   display: block;
-  color: #104cba;
+  color: #9097ff;
   font-size: 28px;
   line-height: 28px;
   font-weight: 800;
@@ -4252,7 +4252,7 @@ button.scroltop:hover {
 }
 .footer-light .social-icons li a:hover {
   color: #fff;
-  background-color: #104cba;
+  background-color: #9097ff;
 }
 .footer-light .footer-bottom {
   color: #fff;
@@ -4272,7 +4272,7 @@ button.scroltop:hover {
 }
 .footer-light .footer-bottom .footer-bottom-info .call-us {
   background-color: #000;
-  border-left: 4px solid #104cba;
+  border-left: 4px solid #9097ff;
   padding: 10px 20px;
 }
 @media (max-width: 991px) {
@@ -4287,7 +4287,7 @@ button.scroltop:hover {
 }
 .footer-light .footer-bottom .footer-bottom-info .call-us a {
   display: block;
-  color: #104cba;
+  color: #9097ff;
   font-size: 28px;
   line-height: 28px;
   font-weight: 700;
@@ -4325,13 +4325,13 @@ button.scroltop:hover {
   font-size: 14px;
 }
 .footer-light .copyrights-nav li a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 .footer-light .copyrights-nav li a:active {
-  color: #104cba;
+  color: #9097ff;
 }
 .footer-light .copyrights-nav li a:focus {
-  color: #104cba;
+  color: #9097ff;
 }
 .footer-light .copyrights-nav li.active a {
   color: #fff;
@@ -4347,13 +4347,13 @@ button.scroltop:hover {
   color: #000;
 }
 .footer-light .widget_services ul li a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 .footer-light .recent-posts-entry .wt-post-info .wt-post-header a {
   color: #000;
 }
 .footer-light .recent-posts-entry .wt-post-info .wt-post-header a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 .footer-light .recent-posts-entry .wt-post-info .wt-post-meta ul li {
   color: #6a6a6a;
@@ -4470,7 +4470,7 @@ button.scroltop:hover {
   top: 0px;
   width: 4px;
   height: 0%;
-  background-color: #104cba;
+  background-color: #9097ff;
   z-index: 1;
 }
 .accordion-cutom.collapse.show .acod-content:after {
@@ -4665,7 +4665,7 @@ textarea.form-control {
 }
 .nl-type .nl-form .s-btn {
   border: none;
-  background-color: #104cba;
+  background-color: #9097ff;
   padding: 0px 20px;
   font-weight: 700;
   text-align: center;
@@ -4707,7 +4707,7 @@ select {
 }
 .sf-radio-checkbox input[type="checkbox"] + label:hover:before,
 .sf-radio-checkbox input[type="radio"] + label:hover:before {
-  border-color: #1750bd;
+  border-color: #9097ff;
 }
 .sf-radio-checkbox input[type="checkbox"] + label:before,
 .sf-radio-checkbox input[type="radio"] + label:before {
@@ -4725,7 +4725,7 @@ select {
   border-radius: 2px;
 }
 .sf-radio-checkbox input[type="checkbox"] + label:after {
-  color: #1750bd;
+  color: #9097ff;
   content: "\f00c";
   font-family: FontAwesome;
   font-size: 0px;
@@ -4737,7 +4737,7 @@ select {
 }
 .sf-radio-checkbox input[type="checkbox"]:checked + label:before {
   border-width: 1px;
-  border-color: #1750bd;
+  border-color: #9097ff;
 }
 .sf-radio-checkbox input[type="checkbox"]:checked + label:after {
   font-size: 12px;
@@ -4749,7 +4749,7 @@ select {
   content: "";
 }
 .sf-radio-checkbox input[type="radio"]:checked + label:before {
-  border-color: #1750bd;
+  border-color: #9097ff;
   border-width: 2px;
 }
 .form-inline .checkbox input[type="checkbox"],
@@ -5055,7 +5055,7 @@ select {
 }
 
 .admin-nav-label {
-  background: #104cba;
+  background: #9097ff;
   padding: 4px 8px;
   margin-left: 10px;
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.13);
@@ -5182,7 +5182,7 @@ select {
   -webkit-border-radius: 10px;
 }
 .dropzone span {
-  background-color: #104cba;
+  background-color: #9097ff;
   padding: 10px 20px;
   border-radius: 30px;
   color: #fff;
@@ -5253,8 +5253,8 @@ div.dataTables_wrapper div.dataTables_length select {
   color: #022278;
 }
 .site-pagination .page-item.active .page-link {
-  background-color: #104cba;
-  border-color: #104cba;
+  background-color: #9097ff;
+  border-color: #9097ff;
 }
 .site-pagination .pagination > li > a,
 .site-pagination .pagination > li > span {
@@ -5267,8 +5267,8 @@ div.dataTables_wrapper div.dataTables_length select {
 .site-pagination .pagination > li > a:hover,
 .site-pagination .pagination > li > span:hover {
   color: #fff;
-  background-color: #104cba;
-  border-color: #104cba;
+  background-color: #9097ff;
+  border-color: #9097ff;
 }
 
 .site-footer {
@@ -5618,7 +5618,7 @@ ol.comment-list li .comment-replay-btn {
   color: #676767;
 }
 ol.comment-list li .comment-replay-btn:hover {
-  color: #1750bd;
+  color: #9097ff;
 }
 
 ol.comment-list li .comment-replay-btn i {
@@ -5929,7 +5929,7 @@ table td {
   border-radius: 50%;
 }
 .aon-farm-blog-2 .aon-post-date {
-  color: #1750bd;
+  color: #9097ff;
   font-weight: 600;
   font-size: 12px;
 }
@@ -7086,23 +7086,23 @@ table td {
 }
 
 .aon-wc-bg-orange {
-  background: #1750bd; /* Old browsers */
+  background: #9097ff; /* Old browsers */
   background: -moz-linear-gradient(
     top,
-    #1750bd 0%,
+    #9097ff 0%,
     #c94106 100%
   ); /* FF3.6-15 */
   background: -webkit-linear-gradient(
     top,
-    #1750bd 0%,
+    #9097ff 0%,
     #c94106 100%
   ); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(
     to bottom,
-    #1750bd 0%,
+    #9097ff 0%,
     #c94106 100%
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1750bd', endColorstr='#c94106',GradientType=0 ); /* IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9097ff', endColorstr='#c94106',GradientType=0 ); /* IE6-9 */
 }
 .aon-wc-bg-green {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffed47+0,15c906+100 */
@@ -9160,7 +9160,7 @@ p.full-detail-content {
   left: 0px;
   top: 20px;
   position: absolute;
-  background: #104cba;
+  background: #9097ff;
 }
 .aon-blockquote1 .media-col {
   display: table-cell;
@@ -10109,13 +10109,13 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .datepicker table tr td.active.highlighted:active,
 .datepicker table tr td.active:active {
   color: #fff;
-  background-color: #1750bd;
-  border-color: #1750bd;
+  background-color: #9097ff;
+  border-color: #9097ff;
 }
 
 .datepicker table tr td.day:hover,
 .datepicker table tr td.focused {
-  background: #1750bd;
+  background: #9097ff;
   color: #fff;
 }
 .datepicker table tr td.active.active.focus,
@@ -10131,8 +10131,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .datepicker table tr td.active:active:focus,
 .datepicker table tr td.active:active:hover {
   color: #fff;
-  background-color: #1750bd;
-  border-color: #1750bd;
+  background-color: #9097ff;
+  border-color: #9097ff;
 }
 .aon-map-pic img {
   border-radius: 5px;
@@ -10478,7 +10478,7 @@ Home One Css
 }
 .footer-topmidblock {
   margin: 0px 100px;
-  background-color: #104cba;
+  background-color: #9097ff;
   padding: 50px 0px;
   border-radius: 5px;
   position: relative;
@@ -10529,7 +10529,7 @@ Home One Css
 
 .site-button.white-bg {
   background-color: #fff;
-  color: #104cba;
+  color: #9097ff;
   font-size: 15px;
   font-weight: 600;
 }
@@ -10592,7 +10592,7 @@ Home One Css
   margin-bottom: 50px;
 }
 .ftr-mid-left .aon-title span {
-  color: #104cba;
+  color: #9097ff;
   display: inline-block;
 }
 
@@ -10616,7 +10616,7 @@ Home One Css
   top: 16px;
   left: 0px;
   font-size: 28px;
-  color: #104cba;
+  color: #9097ff;
 }
 .ftr-bot-email-bx .btn-submit-news {
   font-size: 24px;
@@ -10676,7 +10676,7 @@ Home One Css
   display: block;
   border-radius: 4px;
   overflow: hidden;
-  background-color: #104cba;
+  background-color: #9097ff;
   position: relative;
 }
 .ftr-mid-insta-gall-list li:last-child a {
@@ -10742,7 +10742,7 @@ Home One Css
   line-height: 1;
 }
 .aon-social-icon-2 li a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 
 .aon-f-title-2 {
@@ -10764,7 +10764,7 @@ Home One Css
   font-size: 16px;
 }
 .aon-widget-foo-list-2 li a:hover {
-  color: #104cba;
+  color: #9097ff;
 }
 
 .aon-ftr-info {
@@ -10779,7 +10779,7 @@ Home One Css
   padding-left: 35px;
 }
 .aon-ftr-info li i {
-  color: #1750bd;
+  color: #9097ff;
   font-size: 20px;
   margin-right: 5px;
   position: absolute;
@@ -10908,7 +10908,7 @@ Home One Css
 }
 .aon-feas-icon img {
   width: auto !important;
-  height: 50px;
+  height: 40px;
 }
 .aon-feas-title {
   margin-bottom: 25px;
@@ -10960,7 +10960,7 @@ Home One Css
   align-items: center;
 }
 .aon-feas-col:hover .aon-feas-col-icon {
-  background: #1750bd;
+  background: #9097ff;
   color: #fff;
 }
 
@@ -11148,7 +11148,7 @@ Home One Css
 .aon-pro-pic2 img {
   width: 100%;
   transform: skewX(-5deg) scale(1.2);
-  height: 100%;
+  height: 91%;
   object-fit: cover;
   object-position: center;
 }
@@ -11303,8 +11303,8 @@ Home One Css
 }
 
 .icon-text-gradi {
-  background: #0f1877;
-  background: linear-gradient(to bottom right, #0f1877 0%, #1750bd 100%);
+  /* background: #0f1877; */
+  background: #9097ff;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -11350,7 +11350,7 @@ Home One Css
   line-height: 1.2;
 }
 .aon-servi-box:hover {
-  border: 1px solid #104cba;
+  border: 1px solid #9097ff;
 }
 
 @media only screen and (max-width: 991px) {
@@ -11562,7 +11562,7 @@ Home One Css
   position: absolute;
   bottom: 0px;
   right: 0px;
-  background: #104cba;
+  background: #9097ff;
   width: 30px;
   height: 30px;
   display: flex;
@@ -11630,7 +11630,7 @@ Home One Css
   position: absolute;
   bottom: 0px;
   right: 0px;
-  background: #104cba;
+  background: #9097ff;
   width: 30px;
   height: 30px;
   display: flex;
@@ -11742,7 +11742,7 @@ Home One Css
   border-radius: 50%;
 }
 .aon-latest-blog-1 .aon-post-date {
-  color: #1750bd;
+  color: #9097ff;
   font-weight: 600;
   font-size: 12px;
 }
@@ -11764,7 +11764,7 @@ Home One Css
   transition: 0.5s all ease;
   border-radius: 5px;
   font-weight: 400;
-  background: #104cba;
+  background: #9097ff;
 }
 
 .blog-btn-curve {
@@ -11773,7 +11773,7 @@ Home One Css
   margin-left: 10px;
   margin-right: 10px;
   z-index: 2;
-  background: #1750bd;
+  background: #9097ff;
 }
 .blog-btn-curve:after {
   content: "";
@@ -11782,7 +11782,7 @@ Home One Css
   left: -5px;
   width: 50%;
   height: 100%;
-  background: #1750bd;
+  background: #9097ff;
   -moz-transform: skewX(-10deg);
   -webkit-transform: skewX(-10deg);
   -o-transform: skewX(-10deg);
@@ -11798,7 +11798,7 @@ Home One Css
   right: -5px;
   width: 50%;
   height: 100%;
-  background: #1750bd;
+  background: #9097ff;
   -moz-transform: skewX(10deg);
   -webkit-transform: skewX(10deg);
   -o-transform: skewX(10deg);
@@ -12252,7 +12252,7 @@ Home Two Css
   justify-content: center;
 }
 .aon-abo-pro-inr.prog-blue {
-  background: #1750bd;
+  background: #9097ff;
 }
 .aon-abo-pro-inr.prog-black {
   background: #222222;
@@ -13619,7 +13619,7 @@ Inner Page Css
   color: #000;
 }
 .aon-inner-banner-light .aon-inner-bread-crumbs ul li {
-  color: #1750bd;
+  color: #9097ff;
 }
 
 .aon-inner-banner-area {
@@ -13759,13 +13759,13 @@ Inner Page Css
   position: relative;
   overflow: visible;
   border-radius: 10px;
-  background: #104cba;
+  background: #9097ff;
 }
 .progress-wrap .progress-bar-tooltip {
   position: absolute;
   bottom: 100%;
   right: 0;
-  color: #104cba;
+  color: #9097ff;
   font-size: 14px;
   font-weight: 700;
 }
@@ -14631,7 +14631,7 @@ Inner Page Css
 }
 #big.owl-theme .owl-next,
 #big.owl-theme .owl-prev {
-  background: #104cba;
+  background: #9097ff;
   width: 30px;
   line-height: 40px;
   height: 30px;
@@ -15605,7 +15605,7 @@ Inner Page Css
   font-family: ‘Arial Narrow’, sans-serif;
   font-weight: 600;
   font-size: 40px;
-  color: #1750bd;
+  color: #9097ff;
 }
 
 .loadind-box span {

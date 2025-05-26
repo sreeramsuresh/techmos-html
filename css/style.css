@@ -15761,3 +15761,44 @@ Inner Page Css
     padding-bottom: 80px;
   }
 }
+
+/* Make Owl Carousel items equal height */
+.mos-service-carousel .owl-stage {
+  display: flex !important;
+  align-items: stretch;
+}
+
+.mos-service-carousel .owl-item {
+  display: flex !important;
+  height: auto;
+}
+
+.mos-service-carousel .item {
+  display: flex !important;
+  width: 100%;
+}
+
+.aon-servi-box-wrap {
+  display: flex !important;
+  height: 100%;
+}
+
+.aon-servi-box {
+  display: flex !important;
+  flex-direction: column;
+  height: 96%;
+  width: 100%;
+}
+
+.aon-servi-inr {
+  display: flex !important;
+  flex-direction: column;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.aon-servi-text {
+  flex-grow: 1;
+  display: flex;
+  align-items: flex-start;
+}

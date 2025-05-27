@@ -13622,8 +13622,14 @@ Inner Page Css
   color: #9097ff;
 }
 
-.aon-inner-banner-area {
-  background-image: url("../images/bg/inner-page-bg1.jpg");
+.aon-inner-banner-area-se {
+  background-image: url("../images/services/Solutions.png");
+  background-size: cover;
+  min-height: 370px;
+  display: flex;
+}
+.aon-inner-banner-area-co {
+  background-image: url("../images/Contactus/titleimage.png");
   background-size: cover;
   min-height: 370px;
   display: flex;
@@ -15786,7 +15792,7 @@ Inner Page Css
 .aon-servi-box {
   display: flex !important;
   flex-direction: column;
-  height: 96%;
+  height: 94%;
   width: 100%;
 }
 
